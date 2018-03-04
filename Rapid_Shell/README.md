@@ -5,6 +5,10 @@
 
 - Maximum running time: 30 seconds (+- 5 seconds <--> dependent);
 - Exposed time: 15 seconds (means in 50% of time since plugging in the Digispark, the screen will have movement)
+# TO DO:
+1. Generate your shellcode on Kali Linux (Refer to: https://netsec.ws/?p=331)
+2. Edit the "Invoke-Shellcode-template.ps1" script by pasting your pregenerated shellcode
+3. Host the custom script on a direct link and paste it in the Arduino code. Enjoy!
 
 # Additional information:
   #### How it works:
